@@ -68,5 +68,8 @@ function randomColor(){
 }
 
 function test(){
+
+}
+function test2(){
     
 }
