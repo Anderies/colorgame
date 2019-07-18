@@ -66,3 +66,7 @@ function randomColor(){
     "rgb(r,g,b)"
     return "rgb(" + r + ", " + g + ", " + b + ")";
 }
+
+function test(){
+    
+}
